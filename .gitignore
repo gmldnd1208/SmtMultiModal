@@ -20,5 +20,5 @@ dataset/
 received_data/
 *.pdf
 
-# Claude local settings
-.claude/settings.local.json
+# Claude Code
+.claude/
